@@ -1,5 +1,5 @@
 let cache = "av-pdm";
-let arqvcache = ["/" , "/index.html", "/style.css", "/js/main.js"]
+let arqvcache = ["/" , "/index", "/style.css", "/js/main.js", "/horario", "/pe"]
 
 self.addEventListener("install", (e) => {
     e.waitUntil(
